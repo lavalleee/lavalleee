@@ -8,7 +8,7 @@
 * 🔧 Automotive Mechanics 
 * 🐍 Python Geek
 * 🌲 Outdoors 
-* 🎵 Hip-Hop|Metal|Lo-fi|Indie|R&B/Soul|EDM|Ambient|Jazz
+* 🎵 Hip-Hop |Metal | Lo-fi | Indie | R&B/Soul | EDM | Ambient | Jazz
 * 🎨 Photography 
 
 -->
