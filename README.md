@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-** 🍂 Massachusetts | 413
-** 💻 Technology Enthusiast
-** 🔧 Automotive Mechanics 
-** 🐍 Python Geek
+# 🍂 Massachusetts | 413
+# 💻 Technology Enthusiast
+# 🔧 Automotive Mechanics 
+# 🐍 Python Geek
 
 -->
