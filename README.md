@@ -17,7 +17,7 @@
 * JavaScript
 
 # 🧰 PC Specs:
-* AMD Ryzen AMD Ryzen 5 2600X 6-Core 12 Thread(Base: 3.6ghz, Boost: 4.2ghz)
+* AMD Ryzen AMD Ryzen 9 5900X 12-Core 24 Thread(Base: 3.7ghz, Boost: 4.8ghz)
 * ASUS ROG Strix B450-F Gaming II AMD AM4 Motherboard
 * G.Skill Ripjaws V Series 32GB (2 x 16GB) 288-Pin SDRAM DDR4 3200mhz
 * Gigabyte GeForce RTX 2070 Super Windforce OC 8G Graphics Card
