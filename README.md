@@ -17,10 +17,10 @@
 * JavaScript
 
 # 🧰 PC Specs:
-* AMD Ryzen AMD Ryzen 9 5900X 12-Core 24 Thread(Base: 3.7ghz, Boost: 4.8ghz)
+* AMD Ryzen AMD Ryzen 9 5900X 12-Core 24 Thread(OCed --> 4.6Ghz ALL Cores)
 * ASUS ROG Strix B450-F Gaming II AMD AM4 Motherboard
-* G.Skill Ripjaws V Series 32GB (2 x 16GB) 288-Pin SDRAM DDR4 3200mhz
-* Gigabyte GeForce RTX 2070 Super Windforce OC 8G Graphics Card
+* Corsair Vengenance RGB Pro 3600Mhz
+* Gigabyte GeForce RTX 2080Ti
 * SAMSUNG 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4
 * WD_BLACK 1TB SN750 SE NVMe Internal NVME PCIe 4.0
 * Seasonic FOCUS PX-750, 750W 80+ Platinum Full-Modular
