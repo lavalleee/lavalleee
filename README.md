@@ -3,7 +3,7 @@
 *Here are a few things about me..*
 
 
-* 🍂 Massachusetts | 413
+* 🍂 Massachusetts 
 * 💻 Technology Enthusiast
 * 🔧 Automotive Mechanics 
 * 🐍 Python Geek
