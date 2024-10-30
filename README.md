@@ -1,4 +1,3 @@
-### Hi, I'm lavallee
 ## Information Security Consultant
 *Here are a few things about me..*
 
