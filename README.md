@@ -1,5 +1,5 @@
-### Hi, I'm Michael Lavallee
-## Cyber Security Major and Programming Dabbler
+### Hi, I'm lavallee
+## Information Security Consultant
 *Here are a few things about me..*
 
 
@@ -13,6 +13,7 @@
 
 # Programming Languages 
 * Python
+* PowerShell
 * C/C++
 * JavaScript
 
@@ -25,3 +26,7 @@
 * WD_BLACK 1TB SN750 SE NVMe Internal NVME PCIe 4.0
 * Seasonic FOCUS PX-750, 750W 80+ Platinum Full-Modular
 
+# 🥼 Home Lab:
+Server: Dell PowerEdge R630
+Switch: Dell PowerConnect 5548
+NAS: Custom Built
